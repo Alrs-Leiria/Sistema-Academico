@@ -1,0 +1,7 @@
+Na pasta "Libraries" inclui arquivos que foram necessarios incluir nas "libraries" do projeto.
+
+Implementei o cadastro de disciplinas na tela principal, pois achei que seria o mais viavel considereando a estrutura generica. Ate tentei fazer do jeito que estava pedindo no pdf, mas estava misturando um monte de codigo, virando uma bagunça. Dentro da principal acredito que o codigo tenha ficado mais legivel e coeso.
+
+Se faltou algo no projeto, e por acaso ainda tiver algum tempo para alterar por favor me avise, preciso de nota maxima aqui pra passar hehe. 
+
+E-mail: andre1600leiria@gmail.com
